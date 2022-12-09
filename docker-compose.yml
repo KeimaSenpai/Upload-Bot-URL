@@ -8,3 +8,4 @@ services:
     volumes:
       - .:/usr/src/app
     stop_signal: SIGKILL
+      -
