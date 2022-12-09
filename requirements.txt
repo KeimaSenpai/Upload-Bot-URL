@@ -1,5 +1,4 @@
 numpy
-yt-dlp
 Pillow
 aiohttp
 hachoir
