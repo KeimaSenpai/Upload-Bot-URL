@@ -7,5 +7,5 @@ services:
       - 5000:5000
     volumes:
       - .:/usr/src/app
-    stop_signal: SIGKILL
+    stop_signal: sigkill
       -
